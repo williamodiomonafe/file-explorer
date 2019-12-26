@@ -1,0 +1,26 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.0",
+  "description": "A simple personal file explorer",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamodiomonafe/file-explorer.git"
+  },
+  "keywords": [
+    "file",
+    "explorer"
+  ],
+  "author": "William Odiomonafe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamodiomonafe/file-explorer/issues"
+  },
+  "homepage": "https://github.com/williamodiomonafe/file-explorer#readme"
+}
